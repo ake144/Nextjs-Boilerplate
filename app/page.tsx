@@ -21,12 +21,12 @@ export default function LandingPage() {
             </p>
             <div className="mt-8 flex justify-center space-x-4">
               <Button asChild>
-                <Link href="https://github.com/yourusername/your-repo" target="_blank" rel="noopener noreferrer">
+                <Link href="https://github.com/ake144/Nextjs-Boilerplate" target="_blank" rel="noopener noreferrer">
                   <Github className="mr-2 h-4 w-4" /> Clone Repo
                 </Link>
               </Button>
               <Button variant="outline" className='text-black'>
-                <Link href="https://github.com/yourusername/your-repo" target="_blank" rel="noopener noreferrer">
+                <Link href="https://github.com/ake144/Nextjs-Boilerplate" target="_blank" rel="noopener noreferrer">
                   <Star className="mr-2 h-4 w-4 " /> Star Repo
                 </Link>
               </Button>
@@ -59,12 +59,12 @@ export default function LandingPage() {
             </p>
             <div className="mt-8 flex justify-center space-x-4">
               <Button asChild size="lg">
-                <Link href="https://github.com/yourusername/your-repo" target="_blank" rel="noopener noreferrer">
+                <Link href="https://github.com/ake144/Nextjs-Boilerplate" target="_blank" rel="noopener noreferrer">
                   <Star className="mr-2 h-5 w-5" /> Star on GitHub
                 </Link>
               </Button>
               <Button variant="outline" size="lg" className='text-black'>
-                <Link href="https://github.com/yourusername/your-repo" target="_blank" rel="noopener noreferrer">
+                <Link href="https://github.com/ake144/Nextjs-Boilerplate" target="_blank" rel="noopener noreferrer">
                   <Github className="mr-2 h-5 w-5" /> Clone Repository
                 </Link>
               </Button>
